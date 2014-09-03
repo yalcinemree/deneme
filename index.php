@@ -21,6 +21,8 @@ and open the template in the editor.
     echo "a1 branch değişikliği";
     echo "a11 ornek";
     echo "A2 ornek";
+    echo 'A4 ornek';
+    echo 'A5';
     ?>
 </body>
 </html>
