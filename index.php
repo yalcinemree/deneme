@@ -16,6 +16,7 @@ and open the template in the editor.
     echo 'deneme branch w2';
     echo "selam";
     echo "w2 son değişiklik";
+    echo "w3 degisiklik"
     ?>
 </body>
 </html>
