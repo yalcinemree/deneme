@@ -30,6 +30,8 @@ and open the template in the editor.
     echo 'a9';
     echo 'e1';
     echo 'e3';
+    echo 'e2';
+    echo 'e2 commit';
     ?>
 </body>
 </html>
