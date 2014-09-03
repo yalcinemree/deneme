@@ -12,6 +12,7 @@ and open the template in the editor.
 <body>
     <?php
     echo 'master';
+    echo 'branch w1';
     ?>
 </body>
 </html>
