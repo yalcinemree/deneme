@@ -25,6 +25,7 @@ and open the template in the editor.
     echo 'A5';
     echo 'a6 commit';
     echo 'a7';
+    echo 'a8';
     ?>
 </body>
 </html>
