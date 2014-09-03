@@ -29,6 +29,7 @@ and open the template in the editor.
     echo 'master değisiklik';
     echo 'a9';
     echo 'e2';
+    echo 'e2 commit';
     ?>
 </body>
 </html>
