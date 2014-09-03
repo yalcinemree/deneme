@@ -27,6 +27,7 @@ and open the template in the editor.
     echo 'a7';
     echo 'a8';
     echo 'master değisiklik';
+    echo 'a9';
     ?>
 </body>
 </html>
