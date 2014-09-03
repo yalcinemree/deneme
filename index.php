@@ -11,7 +11,7 @@ and open the template in the editor.
 </head>
 <body>
     <?php
-    echo 'deneme';
+    echo 'deneme w2';
     ?>
 </body>
 </html>
