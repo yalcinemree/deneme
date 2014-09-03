@@ -26,6 +26,7 @@ and open the template in the editor.
     echo 'a6 commit';
     echo 'a7';
     echo 'a8';
+    echo 'master değisiklik';
     ?>
 </body>
 </html>
