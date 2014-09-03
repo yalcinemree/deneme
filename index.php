@@ -11,7 +11,11 @@ and open the template in the editor.
 </head>
 <body>
     <?php
-    echo 'deneme w2';
+    echo 'master';
+    echo 'branch w1';
+    echo 'deneme branch w2';
+    echo "selam";
+    echo "w2 son değişiklik";
     ?>
 </body>
 </html>
