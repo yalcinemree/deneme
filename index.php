@@ -19,6 +19,7 @@ and open the template in the editor.
     echo "w3 degisiklik";
     echo "A1 branch işi";
     echo "a1 branch değişikliği";
+    echo "a11 ornek";
     ?>
 </body>
 </html>
