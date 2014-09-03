@@ -32,6 +32,7 @@ and open the template in the editor.
     echo 'e3';
     echo 'e2';
     echo 'e2 commit';
+    echo 'master git-hub degisiklik';
     ?>
 </body>
 </html>
